@@ -29,8 +29,6 @@ The model's predictions hinge on the following independent variables:
 
 ## Insights and Conclusions
 
-Through detailed analysis, the project reveals compelling insights into academic performance dynamics. Preliminary findings underscore the significant influence of factors such as parental education level and lunch type on a student's math performance. These insights hold potential value for educators, policymakers, and parents, offering data-backed strategies to enhance student outcomes.
+Through detailed analysis, the project reveals compelling insights into academic performance dynamics. Preliminary findings underscore the significant influence of factors such as parental education level and lunch type on a student's performance. These insights hold potential value for educators, policymakers, and parents, offering data-backed strategies to enhance student outcomes.
 
-## License
 
-*Note: If applicable, mention the license.*
